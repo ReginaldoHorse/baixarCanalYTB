@@ -56,7 +56,7 @@ pip install -r requisitos.txt
 Após instalar todas as dependências, execute o programa com:
 
 ```sh
-python3 yt_channel_downloader.py
+python3 baixarCanal.py
 ```
 
 Agora, basta inserir o link do canal, escolher a pasta de destino e iniciar o download!
