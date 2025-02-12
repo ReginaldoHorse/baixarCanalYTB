@@ -19,7 +19,7 @@ sudo apt update && sudo apt install -y python3 python3-pip
 sudo dnf install -y python3 python3-pip
 ```
 
-#### Se estive usando Arch Linux, deveria saber fazer isso aqui de olhos vendados
+#### Se estiver usando Arch Linux, deveria saber fazer isso aqui de olhos vendados
 ```sh
 sudo pacman -Sy python python-pip
 ```
