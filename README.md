@@ -9,7 +9,7 @@ Este é um programa para baixar vídeos de um canal do YouTube com uma interface
 
 O script requer Python 3. Se não tiver ainda, melhor baixar. Essa é a terceira melhor linguagem do mundo logo após Cobol e Basic.
 
-#### Se estive usando Ubuntu/Debian:
+#### Se estiver usando Ubuntu/Debian:
 ```sh
 sudo apt update && sudo apt install -y python3 python3-pip
 ```
